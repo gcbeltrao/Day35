@@ -1,10 +1,10 @@
 import requests
 
-API_KEY = "a83eb51cdd61e6fd7a63d94f50aaf5d2"
+API_KEY = "API-KEY"
 
 parameters = {
-    "lat": -8.055190,
-    "lon": -34.871181,
+    "lat": LAT,
+    "lon": LONG,
     "cnt": 4,
     "appid": API_KEY,
 }
